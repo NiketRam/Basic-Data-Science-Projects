@@ -1,4 +1,4 @@
 Basic-Data-Science-Projects
 ===========================
 
-basic stuff
+This isn't really worth looking at. 
